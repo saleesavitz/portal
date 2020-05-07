@@ -1,5 +1,9 @@
 Commonly used commands in git:
 
+How do we bring a repo down to our local machine:
+
+git clone https://github.com/saleesavitz/portal.git
+
 How do we see how things are going in git: 
 
 git status
@@ -11,3 +15,9 @@ git add .
 How to I bring all of the staged files into the repo: 
 
 git commit -m "Adds files to this branch of repo"
+
+How do we send our files to the server :
+
+git push
+
+
